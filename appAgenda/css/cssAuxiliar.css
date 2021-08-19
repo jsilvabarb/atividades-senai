@@ -1,0 +1,25 @@
+#forms {
+    text-align: center;
+    margin-top: 10px;
+}
+#input {
+    padding: 15px;
+    width: 400px;
+
+    border-radius: 10px;
+    border: 1px solid turquoise;
+
+    background-color: whitesmoke;
+}
+#button {
+    padding: 15px;
+    background-color: whitesmoke;
+    border: 1px solid turquoise;
+    border-radius: 10px;
+
+    color: turquoise;
+}
+#button:hover {
+    background-color: #00FF00;
+    color: whitesmoke;
+} 

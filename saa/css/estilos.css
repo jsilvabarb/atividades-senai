@@ -1,0 +1,39 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg-vermelho {
+    background-color: #dc3545; 
+     
+}
+
+.container-c {
+
+    margin: 5% auto 22.1%;
+    width: 900px;
+
+    display: block;     
+}
+
+.container-login {
+    margin: 22.1% auto;
+    margin-bottom: 22%;
+    width: 300px;
+}
+
+.center {
+    text-align: center;
+}
+
+.bg-escuro {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+
+
+
+a:hover {
+    color: #c3cad1;
+    text-decoration: none;
+}
+

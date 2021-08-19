@@ -1,0 +1,16 @@
+.img {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+.imgDois {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+.titulos {
+    text-align: center;
+    margin-left: 20px;
+}
